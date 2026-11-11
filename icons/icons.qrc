@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>stellarpicture.png</file>
+        <file>settings.png</file>
+    </qresource>
+</RCC>
